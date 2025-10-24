@@ -1,0 +1,36 @@
+
+======================================
+        Transaction Details
+======================================
+Transaction ID        : 101
+Account Number        : 2345
+Transaction Type      : Deposit
+Amount                : ₹5000
+Balance After Txn     : ₹25000
+Date & Time           : 2025-10-17 00:09
+======================================
+
+
+======================================
+        Transaction Details
+======================================
+Transaction ID        : 101
+Account Number        : 98089
+Transaction Type      : Deposit
+Amount                : ₹4000
+Balance After Txn     : ₹74000
+Date & Time           : 2025-10-17 00:09
+======================================
+
+
+======================================
+        Transaction Details
+======================================
+Transaction ID        : 101
+Account Number        : 98089
+Transaction Type      : Withdraw
+Amount                : ₹40000
+Balance After Txn     : ₹34000
+Date & Time           : 2025-10-17 00:10
+======================================
+
