@@ -21,22 +21,6 @@ The project is designed to demonstrate:
 | Transaction Logging | Every deposit/withdraw is logged with timestamp and transaction ID. |
 | File Storage | User accounts stored in `src/Accounts/accounts.txt` and transactions in `src/Transactions/transactions.txt`. |
 
----
-
-## 🏃 How to Run the Program
-
-### **1. Compile the project**
-
-### **2. Run the Main class**
-
----
-
-## 🔐 Usage Flow
-
-### 1. On start:
-
-### 2. After login:
-
 
 ---
 
