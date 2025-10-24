@@ -1,5 +1,20 @@
+/**
+ * Validates input data for creating bank accounts.
+ * Throws InvalidInputException if any input is invalid.
+ */
 public class InputValidator {
+
+    /**
+     * Validates user account inputs.
+     *
+     * @param userName the name of the user
+     * @param accountNumber the account number
+     * @param securityPin the security PIN
+     * @param amount initial deposit amount
+     * @throws InvalidInputException if any validation rule is violated
+     */
     static void validateAccountInputs(String userName, int accountNumber, int securityPin, long amount) throws InvalidInputException {
+
         if (userName == null || userName.isEmpty()) {
             throw new InvalidInputException("Invalid input: Name cannot be empty. Please enter a valid name.");
         }

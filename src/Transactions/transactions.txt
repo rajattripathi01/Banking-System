@@ -34,3 +34,15 @@ Balance After Txn     : ₹34000
 Date & Time           : 2025-10-17 00:10
 ======================================
 
+
+======================================
+        Transaction Details
+======================================
+Transaction ID        : 101
+Account Number        : 98089
+Transaction Type      : Deposit
+Amount                : ₹6000
+Balance After Txn     : ₹40000
+Date & Time           : 2025-10-24 19:31
+======================================
+
